@@ -1,4 +1,4 @@
 # About Kai
 
 - School: CofC
-- Fav bev: Coffee
+- Fav beverage: Coffee
